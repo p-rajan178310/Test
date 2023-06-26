@@ -37,3 +37,4 @@ const styles = StyleSheet.create({
     resizeMode: 'contain',
   },
 });
+// hello motto
