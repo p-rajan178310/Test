@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <SplashScreen />
-      <Text>Welcome to my app!</Text>
+      <Text>Welcome to Pushpraj's app!</Text>
     </View>
   );
 }
